@@ -1,0 +1,78 @@
+body {
+  background-color: #ebe3ce;
+  color: #483c1e;
+  font-family: "Lucida Console", Monaco, monospace;
+
+
+f
+}
+
+h1 {
+  text-align: center;
+  
+  
+}
+h2{
+
+}
+
+p {
+  
+  font-size: 15px;
+}
+
+.button {
+  background-color: #241e0f;
+  border: none;
+  color: #ebe3ce;
+  border-radius: 8px; 
+  
+  justify-content: center;
+  padding: 20px 34px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 30px 2px;
+  cursor: pointer;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+.centeredButton{
+     display: flex; justify-content: center; 
+
+}
+
+
+  button:focus {
+   
+    outline:  #7f693e;
+    
+    box-shadow: 0 0 0  3px #b5954a;
+}
+
+
+  a:link {
+    color: #483c1e;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #b5954a;
+};
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #7f693e;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: #483c1e;
+    background-color: transparent;
+    text-decoration: underline;
+  }
