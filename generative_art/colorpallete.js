@@ -1,3 +1,5 @@
+//ACKNOWLEDGEMENT: This code is based on a tutorial called Rainbow Paint from https://medium.com/@kellylougheed/rainbow-paintbrush-in-p5-js-e452d5540b25
+
 let hue;
 let rainbow = true;
 let rate = 1;
@@ -60,16 +62,3 @@ function keyPressed() {
     rate *= 2;
   }
 }
-
-//from https://medium.com/@kellylougheed/rainbow-paintbrush-in-p5-js-e452d5540b25
-
-/**
-HSL colors
-Hue - degree from 0-360 on the color wheel
-Staturation - vivdness of color expressed in percent with 0% being grey and 100% full color
-Lightness  - 0% being dark and 100% being light
-
-HSL paintbrush cycle through hues on color wheel
-
-
- */

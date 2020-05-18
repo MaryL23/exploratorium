@@ -64,12 +64,14 @@ function setup() {
   let cx = mercX(clon);
   let cy = mercY(clat);
 
+  let filteredData = virusData.data.filter((city) => city.confirmed > 1000);
+
   //load the date, load string gives an array of strings
-  for (let i = 0; i < virusData.data.length; i++) {
+  for (let i = 0; i < filteredData.length; i++) {
     // use regular expression to map split on commas
 
-    let lat = virusData.data[i].latitude;
-    let lon = virusData.data[i].longitude;
+    let lat = filteredData[i].latitude;
+    let lon = filteredData[i].longitude;
 
     let x = mercX(lon) - cx;
     let y = mercY(lat) - cy;
