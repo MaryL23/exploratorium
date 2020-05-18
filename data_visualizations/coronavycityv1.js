@@ -1,6 +1,6 @@
 //Corona virus numbers by cities
 
-//ACKNOWLEDGEMENT: Calculations and mapping information based on Coding Challenge #57: Mapping Earthquake Data at https://www.youtube.com/watch?v=ZiYdOwOrGyc
+//ACKNOWLEDGMENT: Calculations and mapping information based on Coding Challenge #57: Mapping Earthquake Data at https://www.youtube.com/watch?v=ZiYdOwOrGyc
 
 let mapimg;
 let zoom = 1;

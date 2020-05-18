@@ -1,4 +1,4 @@
-//ACKNOWLEDGEMENT: This code is based on samples from https://p5js.org/examples/
+//ACKNOWLEDGMENT: This code is based on samples from https://p5js.org/examples/
 
 const grid = {
   rows: 10,

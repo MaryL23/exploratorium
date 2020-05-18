@@ -4,7 +4,7 @@
 /* eslint-disable no-undef */
 /* eslint-disable no-unused-vars */
 
-//ACKNOWLEDGEMENT: This code is based on the tutorial at  https://codeburst.io/sunsets-and-shooting-stars-in-p5-js-92244d238e2b
+//ACKNOWLEDGMENT: This code is based on the tutorial at  https://codeburst.io/sunsets-and-shooting-stars-in-p5-js-92244d238e2b
 
 let stars = [];
 let moon;

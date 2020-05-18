@@ -1,4 +1,4 @@
-//ACKNOWLEDGEMENT: This code is based on a tutorial called Rainbow Paint from https://medium.com/@kellylougheed/rainbow-paintbrush-in-p5-js-e452d5540b25
+//ACKNOWLEDGMENT: This code is based on a tutorial called Rainbow Paint from https://medium.com/@kellylougheed/rainbow-paintbrush-in-p5-js-e452d5540b25
 
 let hue;
 let rainbow = true;

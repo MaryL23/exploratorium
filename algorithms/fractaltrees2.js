@@ -1,4 +1,4 @@
-//ACKNOWLEDGEMENT:This code is based on the tutorial by Daniel Schiffman at Coding challenge #14 Fractual Trees recursive at https://www.youtube.com/watch?v=0jjeOYMjmDU
+//ACKNOWLEDGMENT:This code is based on the tutorial by Daniel Schiffman at Coding challenge #14 Fractual Trees recursive at https://www.youtube.com/watch?v=0jjeOYMjmDU
 let angle = 0;
 let slider;
 
